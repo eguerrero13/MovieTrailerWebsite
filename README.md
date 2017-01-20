@@ -29,5 +29,11 @@ Create webpage:
 fresh_tomatoes.open_movies_page(movies)
 ```
 
+## How to Run
+1. Get the project from https://github.com/eguerrero13/MovieTrailerWebsite/archive/master.zip
+2. Unzip the project.
+3. Open container folder.
+3. Run the project by using the terminal and executing  `python entertainment_center.py`
+
 ## Creator
 * Einar Guerrero
